@@ -1,2 +1,4 @@
 # hello-vancouver
-Life is here
+Life is good here!
+Testing is fun:)
+This is for training purpose only
